@@ -7,5 +7,5 @@
 
 ## 儿童睡眠小助手微信小程序
 
-![](https://github.com/Adolescent-Sleep/picture/WeChat-program/1.png)
+![](https://github.com/Adolescent-Sleep/raw/master/picture/WeChat-program/1.png)
 
