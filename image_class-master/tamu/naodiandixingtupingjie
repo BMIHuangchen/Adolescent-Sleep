@@ -1,0 +1,128 @@
+import cv2
+import matplotlib.pyplot  as plt
+
+img1 = cv2.imread('E:\\image_class-master\\tamu\\0_1.jpg',cv2.IMREAD_COLOR)
+img2 = cv2.imread('E:\\image_class-master\\tamu\\0_2.jpg',cv2.IMREAD_COLOR)
+img3 = cv2.imread('E:\\image_class-master\\tamu\\0_3.jpg',cv2.IMREAD_COLOR)
+img4 = cv2.imread('E:\\image_class-master\\tamu\\0_4.jpg',cv2.IMREAD_COLOR)
+img5 = cv2.imread('E:\\image_class-master\\tamu\\1_1.jpg',cv2.IMREAD_COLOR)
+img6 = cv2.imread('E:\\image_class-master\\tamu\\1_2.jpg',cv2.IMREAD_COLOR)
+img7 = cv2.imread('E:\\image_class-master\\tamu\\1_3.jpg',cv2.IMREAD_COLOR)
+img8 = cv2.imread('E:\\image_class-master\\tamu\\1_4.jpg',cv2.IMREAD_COLOR)
+img9 = cv2.imread('E:\\image_class-master\\tamu\\2_1.jpg',cv2.IMREAD_COLOR)
+img10 = cv2.imread('E:\\image_class-master\\tamu\\2_2.jpg',cv2.IMREAD_COLOR)
+img11 = cv2.imread('E:\\image_class-master\\tamu\\2_3.jpg',cv2.IMREAD_COLOR)
+img12 = cv2.imread('E:\\image_class-master\\tamu\\2_4.jpg',cv2.IMREAD_COLOR)
+img13 = cv2.imread('E:\\image_class-master\\tamu\\3_1.jpg',cv2.IMREAD_COLOR)
+img14 = cv2.imread('E:\\image_class-master\\tamu\\3_2.jpg',cv2.IMREAD_COLOR)
+img15 = cv2.imread('E:\\image_class-master\\tamu\\3_3.jpg',cv2.IMREAD_COLOR)
+img16 = cv2.imread('E:\\image_class-master\\tamu\\3_4.jpg',cv2.IMREAD_COLOR)
+
+
+img1 = cv2.cvtColor(img1, cv2.COLOR_BGR2RGB)
+img2 = cv2.cvtColor(img2, cv2.COLOR_BGR2RGB)
+img3 = cv2.cvtColor(img3, cv2.COLOR_BGR2RGB)
+img4 = cv2.cvtColor(img4, cv2.COLOR_BGR2RGB)
+img5 = cv2.cvtColor(img5, cv2.COLOR_BGR2RGB)
+img6 = cv2.cvtColor(img6, cv2.COLOR_BGR2RGB)
+img7 = cv2.cvtColor(img7, cv2.COLOR_BGR2RGB)
+img8 = cv2.cvtColor(img8, cv2.COLOR_BGR2RGB)
+img9 = cv2.cvtColor(img9, cv2.COLOR_BGR2RGB)
+img10 = cv2.cvtColor(img10, cv2.COLOR_BGR2RGB)
+img11 = cv2.cvtColor(img10, cv2.COLOR_BGR2RGB)
+img12 = cv2.cvtColor(img10, cv2.COLOR_BGR2RGB)
+img13 = cv2.cvtColor(img10, cv2.COLOR_BGR2RGB)
+img14 = cv2.cvtColor(img10, cv2.COLOR_BGR2RGB)
+img15 = cv2.cvtColor(img10, cv2.COLOR_BGR2RGB)
+img16 = cv2.cvtColor(img10, cv2.COLOR_BGR2RGB)
+
+
+plt.rcParams['font.sans-serif'] = ['SimHei']
+plt.rcParams['axes.unicode_minus'] = False
+
+plt.subplot(4, 4, 1)
+plt.title("常态")
+plt.xticks([])
+plt.yticks([])
+plt.imshow(img1)
+
+plt.subplot(4, 4, 5)
+plt.xticks([])
+plt.yticks([])
+plt.imshow(img2)
+
+plt.subplot(4, 4, 9)
+plt.xticks([])
+plt.yticks([])
+plt.imshow(img3)
+
+plt.subplot(4, 4, 13)
+plt.xticks([])
+plt.yticks([])
+plt.imshow(img4)
+
+plt.subplot(4, 4, 2)
+plt.title("悲伤")
+plt.xticks([])
+plt.yticks([])
+plt.imshow(img5)
+
+plt.subplot(4, 4, 6)
+plt.xticks([])
+plt.yticks([])
+plt.imshow(img6)
+
+plt.subplot(4, 4, 10)
+plt.xticks([])
+plt.yticks([])
+plt.imshow(img7)
+
+plt.subplot(4, 4, 14)
+plt.xticks([])
+plt.yticks([])
+plt.imshow(img8)
+
+plt.subplot(4, 4, 3)
+plt.title("恐惧")
+plt.xticks([])
+plt.yticks([])
+plt.imshow(img9)
+
+plt.subplot(4, 4, 7)
+plt.xticks([])
+plt.yticks([])
+plt.imshow(img10)
+
+plt.subplot(4, 4, 11)
+plt.xticks([])
+plt.yticks([])
+plt.imshow(img11)
+
+plt.subplot(4, 4, 15)
+plt.xticks([])
+plt.yticks([])
+plt.imshow(img12)
+
+plt.subplot(4, 4, 4)
+plt.title("愉悦")
+plt.xticks([])
+plt.yticks([])
+plt.imshow(img13)
+
+plt.subplot(4, 4, 8)
+plt.xticks([])
+plt.yticks([])
+plt.imshow(img14)
+
+plt.subplot(4, 4, 12)
+plt.xticks([])
+plt.yticks([])
+plt.imshow(img15)
+
+plt.subplot(4, 4, 16)
+plt.xticks([])
+plt.yticks([])
+plt.imshow(img16)
+
+plt.savefig("pic_1")
+plt.show()

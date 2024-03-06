@@ -1,0 +1,42 @@
+EEG_1_1_14_1.jpg nature
+EEG_1_1_14_10.jpg nature
+EEG_1_1_14_11.jpg nature
+EEG_1_1_14_12.jpg nature
+EEG_1_1_14_2.jpg nature
+EEG_1_1_14_3.jpg nature
+EEG_1_1_14_4.jpg nature
+EEG_1_1_14_9.jpg nature
+
+EEG_1_1_18_1.jpg nature
+EEG_1_1_18_10.jpg sad
+EEG_1_1_18_11.jpg sad
+EEG_1_1_18_12.jpg sad
+EEG_1_1_18_13.jpg sad
+EEG_1_1_18_2.jpg nature
+EEG_1_1_18_3.jpg nature
+EEG_1_1_18_4.jpg nature
+EEG_1_1_18_43.jpg fear
+EEG_1_1_18_44.jpg fear
+EEG_1_1_18_5.jpg nature
+
+EEG_1_1_23_1.jpg nature
+EEG_1_1_23_17.jpg nature
+EEG_1_1_23_18.jpg nature
+EEG_1_1_23_19.jpg nature
+EEG_1_1_23_2.jpg nature
+EEG_1_1_23_3.jpg nature
+EEG_1_1_23_4.jpg nature
+EEG_1_1_23_43.jpg nature
+EEG_1_1_23_5.jpg nature
+EEG_1_1_23_6.jpg nature
+EEG_1_1_23_7.jpg nature
+
+EEG_1_1_24_1.jpg happy
+EEG_1_1_24_10.jpg happy
+EEG_1_1_24_2.jpg happy
+EEG_1_1_24_32.jpg happy
+EEG_1_1_24_33.jpg happy
+EEG_1_1_24_34.jpg happy
+EEG_1_1_24_7.jpg happy
+EEG_1_1_24_8.jpg happy
+EEG_1_1_24_9.jpg happy
