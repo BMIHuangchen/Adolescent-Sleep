@@ -7,5 +7,5 @@
 
 ## 儿童睡眠小助手微信小程序
 
-![](./picture/WeChat-program/1.png)
+![](./Image/WeChat-program/1.png)
 
