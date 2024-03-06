@@ -50,9 +50,6 @@
 9.[VGG19模型下载地址](https://github.com/fchollet/deep-learning-models/releases/download/v0.1/vgg19_weights_tf_dim_ordering_tf_kernels_notop.h5)
 放在image_class-master/checkpoints/VGG19/文件夹下
 ## 儿童睡眠小助手微信小程序
-<figure class='four'>
-    <img src="./Image/WeChat-program/1.png" width="120">
-    <img src="./Image/WeChat-program/2.png" width="120">
-    <img src="./Image/WeChat-program/3.png" width="120">
-    <img src="./Image/WeChat-program/4.png" width="120">
-</figure>
+<center>
+    <img src="./Image/WeChat-program/1.png" width="160"><img src="./Image/WeChat-program/2.png" width="160"><img src="./Image/WeChat-program/3.png" width="160"><img src="./Image/WeChat-program/4.png" width="160">
+</center>
